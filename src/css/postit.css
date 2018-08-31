@@ -1,0 +1,23 @@
+.postIt {
+	width:250px;
+	height:250px;
+	margin:5px;
+	padding:10px;
+	font-family: 'Permanent Marker', cursive;
+	overflow:hidden;
+}
+
+.fa-trash {
+	float:right;
+}
+
+.fa-trash:hover {
+	color:gray;
+	cursor:pointer;
+}
+
+.postIt h3 {
+	text-align:center;
+	margin-top:40px;
+	font-size:2em;
+}

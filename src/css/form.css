@@ -1,0 +1,20 @@
+form {
+	text-align:center;
+	margin:1em 0;
+	width:100%;
+}
+
+form input {
+	width:65%;
+	height:2em;
+	border-radius:7px 0px 0px 7px;
+}
+
+form button {
+	height:2.5em;
+	border-radius: 0px 7px 7px 0px;
+	border-color:#DE3C4B;
+	background:#E7717C;
+	text-transform:uppercase;
+	color:white;
+}

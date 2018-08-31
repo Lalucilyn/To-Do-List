@@ -1,0 +1,9 @@
+header {
+	background:#87F5FB;
+	text-align:center;
+	padding:0.005em;
+	border-radius:20px;
+	border:5px dashed #CEC3C1;
+	font-family: 'Concert One', cursive;
+	font-size:1.5em;
+}
